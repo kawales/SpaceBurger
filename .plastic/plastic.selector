@@ -1,0 +1,4 @@
+repository "SpaceBurger@kawales_0@cloud"
+  path "/"
+    smartbranch "/main" 
+     
